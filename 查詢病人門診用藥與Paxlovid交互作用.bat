@@ -1,1 +1,0 @@
-D:\python\WPy32-38100\python-3.8.10\python.exe D:\python\paxlovid\paxlovid_gui.py
